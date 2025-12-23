@@ -1,0 +1,86 @@
+{
+  "grass": {
+    "x": 48,
+    "y": 0,
+    "width": 16,
+    "height": 16
+  },
+  "stone": {
+    "x": 16,
+    "y": 0,
+    "width": 16,
+    "height": 16
+  },
+  "stone_brick": {
+    "x": 96,
+    "y": 48,
+    "width": 16,
+    "height": 16
+  },
+  "dirt": {
+    "x": 32,
+    "y": 0,
+    "width": 16,
+    "height": 16
+  },
+  "oak_log": {
+    "x": 64,
+    "y": 16,
+    "width": 16,
+    "height": 16
+  },
+  "oak_plank": {
+    "x": 64,
+    "y": 0,
+    "width": 16,
+    "height": 16
+  },
+  "trap_door_closed": {
+    "x": 64,
+    "y": 144,
+    "width": 16,
+    "height": 16
+  },
+  "trap_door_open" : {
+    "x": 64,
+    "y": 80,
+    "width": 16,
+    "height": 16
+  },
+  "chest": {
+    "x": 160,
+    "y": 0,
+    "width": 16,
+    "height": 16
+  },
+  "leaf": {
+    "x": 64,
+    "y": 48,
+    "width": 16,
+    "height": 16
+  },
+  "iron_ore": {
+    "x": 16,
+    "y": 32,
+    "width": 16,
+    "height": 16
+  },
+  "gold_ore": {
+    "x": 0,
+    "y": 32,
+    "width": 16,
+    "height": 16
+  },
+  "diamond_ore": {
+    "x": 32,
+    "y": 48,
+    "width": 16,
+    "height": 16
+  },
+  "respawn_anchor": {
+    "x": 128,
+    "y": 16,
+    "width": 16,
+    "height": 16
+  }
+}
