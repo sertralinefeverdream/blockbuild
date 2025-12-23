@@ -5,12 +5,9 @@ Blockbuild is a 2D block-based survival game loosely modelled on games such as M
 
 ## Controls
 
-### Movement
 - W - Jump
 - A - Move Left
 - D - Move Right
-
-### Gameplay
 - Left Mouse - Attack/Break
 - Right Mouse - Place Block
 - E - Open Inventory
